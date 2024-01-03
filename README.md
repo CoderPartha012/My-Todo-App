@@ -41,4 +41,4 @@ Creating and opening a React.js project using Vite involves a few simple steps. 
    npm run preview
    ```
 
-Remember, the actual commands might vary slightly based on the version of Node.js, Vite, or other dependencies. It's always a good idea to check the latest documentation for the most up-to-date information.
+![todo](https://github.com/CoderPartha012/My-Todo-App/assets/104616945/1fdaeabe-3e6b-47bb-9ddc-037002788da1)
