@@ -40,6 +40,5 @@ Creating and opening a React.js project using Vite involves a few simple steps. 
    ```bash
    npm run preview
    ```
-   [Link to My ToDo ReactJS App](https://my-todo-reactjs-app.netlify.app/)
 
 ![todo](https://github.com/CoderPartha012/My-Todo-App/assets/104616945/1fdaeabe-3e6b-47bb-9ddc-037002788da1)
